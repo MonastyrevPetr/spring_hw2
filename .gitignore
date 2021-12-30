@@ -1,5 +1,6 @@
 # Project exclude paths
 /target/
 .idea
-src\test
+src/test
+target
 *.iml
